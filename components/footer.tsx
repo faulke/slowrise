@@ -29,7 +29,7 @@ export function Footer() {
                 hello@slowrisesnacks.com
               </a>
               <a
-                href="https://instagram.com"
+                href="https://instagram.com/slowrisesnacks"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 text-sm text-muted-foreground hover:text-card-foreground transition-colors"

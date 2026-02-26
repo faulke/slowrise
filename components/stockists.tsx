@@ -8,7 +8,7 @@ const stockists = [
     type: "Market",
   },
   {
-    name: "Badger Mountain Brewing",
+    name: "Pinnacle Beerworks",
     location: "Wenatchee, WA",
     type: "Brewery",
   },
@@ -19,18 +19,13 @@ const stockists = [
   },
   {
     name: "Columbia Valley Brewing",
-    location: "East Wenatchee, WA",
+    location: "Wenatchee, WA",
     type: "Brewery",
   },
   {
     name: "Chelan Valley Farms",
     location: "Chelan, WA",
-    type: "Farm Stand",
-  },
-  {
-    name: "Wally's House of Booze",
-    location: "Wenatchee, WA",
-    type: "Shop",
+    type: "Farm & Vineyard",
   },
 ]
 

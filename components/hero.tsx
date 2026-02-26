@@ -24,7 +24,7 @@ export function Hero() {
             Slowrise Snacks
           </h1>
           <p className="mt-6 text-lg md:text-xl leading-relaxed text-muted-foreground max-w-lg">
-            Small-batch sourdough snacks crafted with patience, wild culture, and the slow rhythms of the Columbia River Valley.
+            Small-batch sourdough snacks with simple ingredients that rise with epic flavor and wander wherever you do.
           </p>
           <div className="mt-8 flex flex-wrap gap-4">
             <a
@@ -37,7 +37,7 @@ export function Hero() {
               href="#find-us"
               className="inline-flex items-center px-6 py-3 border border-foreground/30 text-foreground text-sm tracking-wide uppercase rounded-sm hover:bg-foreground hover:text-background transition-colors"
             >
-              Find a Stockist
+              Find our products
             </a>
           </div>
         </div>
