@@ -2,25 +2,11 @@ import Image from "next/image"
 
 const products = [
   {
-    name: "Rosemary & Sea Salt Crackers",
+    name: "Parmesan Garlic Crackers",
     description:
-      "Crispy, tangy sourdough crackers with rosemary from the garden and flaky Jacobsen sea salt. Perfect alongside a sharp cheddar or straight out of the bag.",
+      "Crispy, tangy sourdough crackers with parmesan cheese and a hint of garlic, topped with flaky sea salt.",
     image: "/images/product-crackers.jpg",
     alt: "Artisan sourdough crackers showing bubbly fermented texture",
-  },
-  {
-    name: "Pretzel Bites",
-    description:
-      "Chewy-crisp sourdough pretzel bites with a deep malty crust and coarse salt. Made to go with a cold pint at your favorite local taproom.",
-    image: "/images/product-pretzels.jpg",
-    alt: "Golden sourdough pretzel bites in a rustic ceramic bowl with sea salt",
-  },
-  {
-    name: "Everything Breadsticks",
-    description:
-      "Long, snappy sourdough breadsticks loaded with sesame, poppy, garlic, and onion. Basically everything good on a stick.",
-    image: "/images/product-breadsticks.jpg",
-    alt: "Sourdough breadsticks arranged in a jar with artisan packaging",
   },
 ]
 

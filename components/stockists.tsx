@@ -1,33 +1,7 @@
 import Image from "next/image"
 import { MapPin } from "lucide-react"
 
-const stockists = [
-  {
-    name: "Pybus Public Market",
-    location: "Wenatchee, WA",
-    type: "Market",
-  },
-  {
-    name: "Pinnacle Beerworks",
-    location: "Wenatchee, WA",
-    type: "Brewery",
-  },
-  {
-    name: "The Owl Soda Fountain",
-    location: "Leavenworth, WA",
-    type: "Shop",
-  },
-  {
-    name: "Columbia Valley Brewing",
-    location: "Wenatchee, WA",
-    type: "Brewery",
-  },
-  {
-    name: "Chelan Valley Farms",
-    location: "Chelan, WA",
-    type: "Farm & Vineyard",
-  },
-]
+const stockists: any[] = []
 
 export function Stockists() {
   return (

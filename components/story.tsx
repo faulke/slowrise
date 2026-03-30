@@ -20,10 +20,10 @@ export function Story() {
                 Slowrise started the way all good things do around here: with a sourdough starter, a kitchen that smelled incredible, and way too many snacks to keep to ourselves.
               </p>
               <p>
-                We&apos;re based in Wenatchee, in the heart of North Central Washington&apos;s Columbia River Valley. Our snacks are fermented low and slow, baked in small batches, and made with ingredients we actually want to eat. No rush. No shortcuts.
+                We&apos;re based in Wenatchee, in the heart of North Central Washington&apos;s Columbia River Valley.  Our snacks are fermented low and slow, baked in small batches, and made with ingredients we actually want to eat.  No rush.  No shortcuts.
               </p>
               <p>
-                You&apos;ll find us at local shops, taprooms, and farmers markets across the valley. We believe great snacks should come from real places and real people, not a factory floor.
+                You&apos;ll find us at local shops, taprooms, and farmers markets across the valley.  We believe great snacks should come from real places and real people, not a factory floor.
               </p>
             </div>
           </div>
